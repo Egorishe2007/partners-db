@@ -1,0 +1,2 @@
+file,line,reason,row
+import_sales.txt,5,партнера 4 нет в справочнике,"sale_id=104; partner_id=4; product_name=Стиральный порошок ""Альфа""; sale_date=2026-03-22; quantity=10; total_amount=5000.00"
